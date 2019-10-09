@@ -1,0 +1,289 @@
+
+
+
+input[type="text"] {
+    border-radius: 15px;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    width: 350px;
+    margin: 20px 0;
+    color: rgba(0,0,0,0.8);
+    position: relative;
+    
+  
+  }
+
+ .border  { 
+     border-bottom: 3px solid #1ba94c; 
+
+     }
+
+.top  {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+
+  }
+
+.top-gray {
+    color: 	#A9A9A9;
+    padding: 10px;
+}
+
+.middle-gray {
+    color: 	#A9A9A9;
+    border-right: 1px solid lightgray; 
+    padding:1px;
+
+
+}
+
+
+#A {
+    font-size: 250%;
+    ;
+}
+
+.top-bottom {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: center;   
+    align-items: baseline;
+    background-color: white;
+    
+
+     
+
+   }
+
+.section1 {
+    text-indent: -20%;
+}
+
+.section0 {
+
+     text-indent: 60%;
+     border-bottom: 1px solid lightgray;
+     width: 150%; 
+     position:relative;
+     
+}
+
+
+.top {
+
+     display: flex;
+     justify-content: flex-end;
+   
+ }
+   
+
+.section2 {
+   
+    text-indent: 30%;
+    font-size: 110%;
+    
+  
+}
+
+.top-right-box {
+    border: 2px solid lightgray;
+    height: 60px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#log {
+    color: 	#1E90FF;
+     
+}
+
+
+.left {
+  
+  border-left: 90px solid #39424e;
+  height: 1800px;
+  position: absolute;
+  left: 0%;
+  margin-left: -3px;
+  top: 0%;
+
+  color: gray;
+  font-size: 2px; 
+  text-indent: -128%
+
+ }
+
+
+
+ul .line-text {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+  }
+
+button {
+      background-color: #1ba94c;
+      border-radius: 40px;
+      border: 40px black;
+      padding: 10px 20px;
+      width: 140px;
+      height:40px;
+      margin: 10px 0;
+      color: white;
+      font-weight: bold;
+      
+    
+  }
+
+#change {
+      background-color: white;
+      color:lightgray;
+      border-radius: 5px;
+      border:solid 1px;
+      width: 130px;
+      height:30px;
+      font-size: 10px;
+      position: absolute;
+      left: 84%;
+      margin-left: -3px;
+      top: 40%;
+      margin: 20px;
+  }
+
+ 
+
+span {
+     margin-right: 10px;
+  }
+
+
+body {
+     background-color: 	#F5F5F5;
+    
+ }
+
+.Flowers , .Encryption , .Find, .Lonely {
+       
+        margin:60px 500px 30px 150px;
+        padding: 10px;
+        border:solid 1px 	#A9A9A9; 
+        border-radius: 10px;
+        font-size: 16px;
+        background-color: white;
+        
+ }
+
+
+ .green-button {
+
+    border-radius:6px;
+    margin: 20px;
+ }
+
+#flower1 {
+    display: flex;
+    
+}
+
+ #circle1 , #circle2 {
+
+     font-size: 16px;
+     padding: 10px;
+ }
+
+#lonely-gray , #find-gray{
+     color: lightgray;
+ }
+
+#tc {
+
+  height: 1px;
+  position: absolute;
+  left: 66%;
+  margin-left: -3px;
+  top: 65%;
+  color: gray;
+    
+ }
+ 
+#categories {
+
+     background-color: white;
+      border-radius: 2px;
+      border: 100px black;
+      padding: 10px 20px;
+      width: 200px;
+      height:40px;
+      margin: 10px 0;
+      color: white;
+      font-weight: bold;
+      
+  }
+
+
+
+#icon1, #icon2, #icon3 {
+   
+    color: lightgray;
+    float: right;
+    padding-left: 1em;
+    font-size: 18px;
+    margin: 2px;
+    padding: 7px;
+
+    
+        
+ }
+
+#cblu {
+      color:#F5F5F5;
+     border: solid 	#4169E1;
+     border-radius:20px;
+     font-size:10px;
+
+ }
+
+.fa-check-circle {
+     font-size: 25px;
+     color:#1ba94c; 
+
+ }
+
+#cblue {
+     color:#F5F5F5;
+     border: solid 	#4169E1;
+     border-radius:20px;
+     font-size:10px;
+
+ }
+
+.fa-circle {
+     color:#F5F5F5;
+     border: solid lightgray;
+     border-radius:20px;
+     font-size:10px;
+
+}
+
+.vl {
+  border-left: 6px solid lightgray;
+  height: 600px;
+  position: absolute;
+  left: 70%;
+  margin-left: -3px;
+  top: 80%;
+  color: gray;
+  font-size: 20px; 
+  text-indent: -5.5%
+ }  
+
+.icon-left {
+    text-indent: -330%;
+    font-size: 1000%;
+    color: 	#FFF8DC;
+    margin: 40px;
+}
